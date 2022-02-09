@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: assignment.storage.DatabaseTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec <<< FAILURE!
+assignment.storage.DatabaseTest.testSavedGames()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at assignment.storage.DatabaseTest.testSavedGames(DatabaseTest.java:76)
+
+assignment.storage.DatabaseTest.testSaveGame()  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at assignment.storage.DatabaseTest.testSaveGame(DatabaseTest.java:62)
+
